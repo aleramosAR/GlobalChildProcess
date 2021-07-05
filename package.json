@@ -5,7 +5,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "startFB": "node server 559885825005670 6a2926fd1ded556381f2275ddfbee1f2"
   },
   "keywords": [],
